@@ -1,0 +1,272 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.d1{
+    display: flex;
+    height: 85px;
+    width: 100%;
+    background-color: black;
+}
+.sd1{
+    margin-left: 55px;
+}
+.box{
+    margin-top: 20px;
+    margin-left: -10px;
+    position: absolute;
+    z-index: 0;
+    height: 45px;
+    width: 70px;
+    background-color: #30AE69;
+}
+.sd1 h1{
+    position: relative;
+    z-index: 1;
+    color: white;
+
+}
+.sd2{
+    margin-top: 35px;
+    margin-left: 50%;
+}
+.sd2 a{
+    color: white;
+    text-decoration: none;
+    padding: 0 15px 0 15px;
+    font-size: 20px;
+}
+.sd2 a:hover{
+    text-decoration: underline;
+}
+.d2{
+    background: url(images/hero-bg.jpg)no-repeat;
+    margin: 0 0 0 0;
+}
+.sd3{
+    height: 575px;
+    margin: 0 0 0 0;
+    display: flex;
+}
+.sbd1{
+    padding: 200px 0 0 300px;
+}
+.sbd1 h1{
+    margin: 0 0 0 0;
+    color: white;
+    font-size: 60px;
+}
+.sbd1 h3{
+    margin: 20px 0 0 0;
+    color: white;
+    font-size: 40px;
+}
+.sbd1 button{
+    margin: 20px 0 0 0;
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    height: 50px;
+    width: 180px;
+    border: none;
+    cursor: pointer;
+}
+.sbd2{
+    padding: 120px 0 0 100px; 
+}
+/* Another part */
+.sd4{
+    text-align: center;
+    margin: 80px 0 0 0;
+}
+.line{
+    margin: -15px 0 0 690px;
+    height: 6px;
+    width: 130px;
+    background-color: #30AE69;
+}
+.sd5{
+    display: flex;
+    margin: 60px 0 0 20px;
+}
+.sbd3{
+    height: 330px;
+    width: 300px;
+    padding-left: 40px;
+}
+.sbds1{
+    height: 140px;
+    width: 200px;
+    padding: 55px 0 0 100px;
+    background-color: lightgray;
+}
+.sbds1:hover{
+    background-color: #30AE69;
+}
+.sbd3 h2{
+    text-align: center;
+    margin: 10px 0 10px 0;
+}
+.sbd3 p{
+    text-align: center;
+    margin: 10px 0 0 0;
+}
+.sbd4{
+    height: 330px;
+    width: 300px;
+    padding-left: 40px;
+}
+.sbds2{
+    height: 140px;
+    width: 200px;
+    padding: 55px 0 0 125px;
+    background-color: lightgray;
+}
+.sbds2:hover{
+    background-color: #30AE69;
+}
+.sbd4 h2{
+    text-align: center;
+    margin: 10px 0 10px 0;
+}
+.sbd4 p{
+    text-align: center;
+    margin: 10px 0 0 0;
+}
+.sbd5{
+    height: 330px;
+    width: 300px;
+    padding-left: 60px;
+}
+.sbds3{
+    height: 140px;
+    width: 200px;
+    padding: 55px 0 0 125px;
+    background-color: lightgray;
+}
+.sbds3:hover{
+    background-color: #30AE69;
+}
+.sbd5 h2{
+    text-align: center;
+    margin: 10px 0 10px 0;
+}
+.sbd5 p{
+    text-align: center;
+    margin: 10px 0 0 0;
+}
+.sbd6{
+    height: 330px;
+    width: 300px;
+    padding-left: 60px;
+}
+.sbds4{
+    height: 140px;
+    width: 200px;
+    padding: 55px 0 0 125px;
+    background-color: lightgray;
+}
+.sbds4:hover{
+    background-color: #30AE69;
+}
+.sbd6 h2{
+    text-align: center;
+    margin: 10px 0 10px 0;
+}
+.sbd6 p{
+    text-align: center;
+    margin: 10px 0 0 0;
+}
+.sd6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 0 80px 0;
+}
+.sd6 button{
+    height: 50px;
+    width: 160px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+/* -------------Footer-------------  */
+
+.foot{
+    margin: 0;
+    padding: 0;
+    height: 470px;
+    background-color: black;
+}
+.sfoot1{
+    display: flex;
+    margin: 0 0 0 120px;
+    padding: 80px 0 0 0;
+}
+.sf1{
+    width: 300px;
+    color: white;
+    padding: 0 0 0 18px;
+}
+.box2{
+    height: 45px;
+    width: 75px;
+    background-color: #30AE69;
+    position: absolute;
+    z-index: 0;
+    margin: 20px 0 0 -14px;
+}
+.sf1 h1{
+    position: relative;
+    z-index: 1;
+}
+.sfs1{
+    display: flex;
+}
+.sfs2{
+    display: flex;
+}
+.sfs3{
+    display: flex;
+}
+.sf2{
+    width: 300px;
+    color: white;
+}
+.sf3{
+    width: 300px;
+    color: white;
+}
+.sf4{
+    width: 300px;
+    color: white;
+}
+.sf4 input{
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    height: 35px;
+    width: 250px;
+    border: solid 2px white;
+}
+::placeholder{
+    font-size: 16px;
+    color: white;
+    opacity: 1;
+}
+.sf4 button{
+    background-color: #30AE69;
+    color: white;
+    font-size: 18px;
+    height: 40px;
+    width: 150px;
+}
+.sfoot2 p{
+    margin: 58px 0 0 0;
+    color: white;
+    text-align: center;
+    opacity: .6;
+}
