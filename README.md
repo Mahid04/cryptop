@@ -1,3 +1,3 @@
 # Cryptop - Website live Preview
 
-https://cryptop.github.io
+https://mahid04.github.io/cryptop
